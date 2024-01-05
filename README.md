@@ -5,7 +5,7 @@
 ## AUTHOR
 * Doubabi Mustapha
 
-## Optilio
+## OPTILIO
 musdbi
 
 ## USAGE
