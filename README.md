@@ -3,7 +3,7 @@
 [Subject](https://www.lamsade.dauphine.fr/~sikora/ens/graphes/projet2022/)
 
 ## AUTHOR
-* Doubabi Mustapha
+Mustapha Doubabi
 
 ## OPTILIO
 musdbi
