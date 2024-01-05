@@ -1,26 +1,25 @@
 # Projet 2022 DFVS
 
-[Le sujet](https://www.lamsade.dauphine.fr/~sikora/ens/graphes/projet2022/)
+[Subject](https://www.lamsade.dauphine.fr/~sikora/ens/graphes/projet2022/)
 
 ## AUTHOR
-Doubabi Mustapha
+* Doubabi Mustapha
 
 ## Optilio
 musdbi
 
 ## USAGE
-Le répertoire du projet comporte 1 seul programme python 'main.py' (qui se situe tout en bas du dossier) ainsi que plusieurs fichiers .txt qui serviront à tester ce dernier.
+The project directory contains a single Python program 'main.py' (located at the bottom of the directory) as well as several .txt files that will be used for testing.
 
-Pour lancer le programme :
+To run the program:
 
-1- Lancer l'invite de commande (par exemple CMD sur Windows).
+1- Launch the command prompt (e.g., CMD on Windows).
 
-2- Aller dans le répertoire du projet à l'aide de la commande cd.
+2- Navigate to the project directory using the cd command.
 
-3- Taper sur l'invite de commande : python3 main.py <h_xxx> solution (tel que xxx désigne le numéro du graphe que l'on souhaite étudier). ATTENTION : assurez-vous que les fichiers <h_xxx> sont dans le même dossier que le main.py !
+3- Type the following command in the command prompt: 
+```python3 main.py <h_xxx> solution``` (where xxx represents the number of the graph you want to study).WARNING: Ensure that the <h_xxx> files are in the same directory as main.py!
 
-Pour voir le résultat : ouvrez le fichier solution.txt qui a été crée suite au lancement du programme.
+To view the result, open the 'solution.txt' file that was created as a result of running the program.
 
-PRECISION : Le graphe h_199 n'a pas pu être ajouté au GIT en raison de sa taille dépassant les 25Mo.
-
-
+NOTE: The graph 'h_199' could not be added to the GIT repository due to its size exceeding 25MB.
